@@ -1,5 +1,6 @@
 /*
     The program is for Dixon's method of factorization.
+    Author - Shivam Kapoor
 */
 
 import java.util.*;
